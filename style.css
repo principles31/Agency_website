@@ -5,6 +5,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 95vh;
+    border-bottom: 6px solid purple;
 }
 
 .header {
@@ -24,8 +25,8 @@ h1 {
 
   hr {
     border: none;
-    border-top: 3px double #333;
-    color: #333;
+    border-top: 3px double #d4a373;
+    color: #ffd6ff;
     overflow: visible;
     text-align: center;
     height: 5px;
@@ -59,7 +60,7 @@ h1 {
 
 footer {
     text-align: right;
-    color: midnightblue;
+    color: #ff99c8;
   }
 
    @media (max-width: 680px) {
