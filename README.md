@@ -20,6 +20,9 @@ To get a local copy up and running,follow these simple steps
 - cd Agency_website 💳 
 - Open index.html file in a browser of your choice(Chrome)
 
+## Live demo 
+-[https://effortless-kleicha-efc70f.netlify.app]
+
 ## Author
 
 👤 **Emmanuel Mensah**
